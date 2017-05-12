@@ -338,7 +338,7 @@
         
         { "type" : "Feature",
          "geometry" : {"type" : "Polygon", "coordinates": [[ [9.271201,41.599729], [6.924186,43.751822], [0.1427778,42.936388889] ]]},
-         "properties" : {"fill": "#0000ff", "stroke":"black"}
+         "properties" : {"fill": "#ff0000", "stroke":"black"}
         }
 ]
 }
