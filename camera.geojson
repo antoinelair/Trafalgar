@@ -332,18 +332,8 @@
       },
       
         { "type" : "Feature",
-         "geometry" : {"type" : "Polygon", "coordinates": [[ [9.2771201,41.599729], [6.924186, 43.751822], [2.9772519000006,43.1891644] ]]},
+         "geometry" : {"type" : "Polygon", "coordinates": [[ [0.1427778,42.936388889], [5.33397059667823,43.4913182005546], [2.9772519000006,43.1891644] ]]},
          "properties" : {"fill": "#0000ff", "stroke":"black"}
         },
-        
-        { "type" : "Feature",
-         "geometry": {"type" : "Polygon", "coordinates": [[ [9.2771201,41.599729], [6.924186, 43.751822], [2.306967,42.47969] ]]},
-         "properties" : {"fill": "#ff0000", "stroke":"black"}
-        },
-        
-         { "type" : "Feature",
-         "geometry": {"type" : "Polygon", "coordinates": [[ [2.306967,42.47969], [2.97725190000006,43.1891644], [9.271201,41.599729] ]]},
-         "properties" : {"fill": "#00ff00", "stroke":"black"}
-        }
 ]
 }
