@@ -329,13 +329,7 @@
        { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-1.048806,45.638987]},
           "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRPC03.jpg' target='_blank'>Royan</a>"}
-      },
-      
-        { "type" : "Feature",
-         "geometry" : {"type" : "Polygon", "coordinates": [[ [0.1427778,42.936388889], [5.33397059667823,43.4913182005546], [9.271201,41.599729] ]]},
-         "properties" : {"fill": "#0000ff", "stroke":"black"}
-        },
-        
+      },        
         { "type" : "Feature",
          "geometry" : {"type" : "Polygon", "coordinates": [[ [9.271201,41.599729], [6.924186,43.751822], [0.1427778,42.936388889] ]]},
          "properties" : {"fill": "#ff0000", "stroke":"black"}
