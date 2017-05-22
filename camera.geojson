@@ -338,6 +338,11 @@
         { "type" : "Feature",
          "geometry" : {"type" : "Polygon", "coordinates": [[ [2.137616667,43.918694444], [5.71475,43.933005556], [9.271201,41.599729] ]]},
          "properties" : {"fill": "#00ff00", "stroke":"black"}
+        },
+        
+        { "type" : "Feature",
+         "geometry" : {"type" : "Polygon", "coordinates": [[ [2.137616667,43.918694444], [5.33397059667823,43.4913182005546], [5.436338889,43.343625] ]]},
+         "properties" : {"fill": "#00ff00", "stroke":"black"}
         }
 ]
 }
