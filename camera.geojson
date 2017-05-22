@@ -333,12 +333,7 @@
         
         { "type" : "Feature",
          "geometry" : {"type" : "Polygon", "coordinates": [[ [9.271201, 41.599729], [5.33397059667823,43.4913182005546], [2.137616667,43.918694444], [5.436338889,43.343625] ]]},
-         "properties" : {"fill": "#00ffff", "stroke":"black"}
-        },
-        
-        { "type" : "Feature",
-         "geometry" : {"type" : "Point", "coordinates": [9.271201, 41.599729]},
-         "properties" : {"fill": "#ffffff", "stroke":"black", "size" : 50}
+         "properties" : {"fill": "#ff0000", "stroke":"black"}
         }
 ]
 }
